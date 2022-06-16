@@ -1,4 +1,4 @@
-# voynich_manuscript_text_analysis
+# Voynich Manuscript Text Analysis
 Executive Summary
 
 In 1912, a document was rediscovered called the Voynich Manuscript. It contains
